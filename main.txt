@@ -1,0 +1,4 @@
+This is a log of trying to learn Git.
+I still have a ways to go but I'm getting there.
+Biggest problem is remembering how to do everything after a couple days.
+So that's why I'm doing this practice.
